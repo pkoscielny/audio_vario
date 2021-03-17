@@ -7,6 +7,9 @@ The external device can be e.g. a smartfon with LK8000 software installed and co
 If you want to see the proper altitude you should calibrate the current pressure according to the current altitude before flight. 
 This can be done by two buttons (increase or decrease the current altitude).
 
+Please do not rely on this device during actual flight.
+Be careful and use only certified devices when making decisions.
+
 ## Hardware
 
 ### List of components
@@ -28,7 +31,6 @@ This can be done by two buttons (increase or decrease the current altitude).
 ### Device
 ![view](/img/audio_vario_inside.jpg)
 
+
 ![view](/img/audio_vario_outside.jpg)
 
-Please do not rely on this device during actual flight.
-Be careful and use only certified devices when making decisions.
